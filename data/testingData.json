@@ -1,0 +1,90 @@
+{
+  "vegetables": [
+    {
+      "name": "Carrots",
+      "price": 120,
+      "image": "/vegetables/carrot.jpeg",
+      "description": "Crunchy and sweet, perfect for salads and soups."
+    },
+    {
+      "name": "Tomatoes",
+      "price": 150,
+      "image": "/vegetables/tomatoes.jpeg",
+      "description": "Fresh and juicy, ideal for curries and sauces."
+    },
+    {
+      "name": "Spinach",
+      "price": 100,
+      "image": "/vegetables/spinach.jpeg",
+      "description": "Nutritious leafy green, great for stir-fries and smoothies."
+    },
+    {
+      "name": "Cucumbers",
+      "price": 90,
+      "image": "/vegetables/cucumbers.jpeg",
+      "description": "Cool and refreshing, a salad essential."
+    },
+    {
+      "name": "Bell Peppers",
+      "price": 180,
+      "image": "/vegetables/bell-peppers.jpeg",
+      "description": "Colorful and crisp, rich in vitamins."
+    },
+    {
+      "name": "Onions",
+      "price": 75,
+      "image": "/vegetables/onions.jpeg",
+      "description": "A staple ingredient in most savory dishes."
+    },
+    {
+      "name": "Garlic",
+      "price": 200,
+      "image": "/vegetables/garlic.jpeg",
+      "description": "Pungent and flavorful, used in countless recipes."
+    },
+    {
+      "name": "Green Beans",
+      "price": 130,
+      "image": "/vegetables/green-beans.jpeg",
+      "description": "Fresh and crunchy, great steamed or sautéed."
+    }
+  ],
+  "categories": [
+    {
+      "id": 1,
+      "name": "Leafy Greens",
+      "description": "Nutrient-rich greens perfect for salads and cooking.",
+      "image": "/images/categories/leafy-greens.jpg"
+    },
+    {
+      "id": 2,
+      "name": "Root Vegetables",
+      "description": "Earthy and filling, great for soups and stews.",
+      "image": "/images/categories/root-vegetables.jpg"
+    },
+    {
+      "id": 3,
+      "name": "Fruiting Vegetables",
+      "description": "Vegetables that grow from flowers – juicy and colorful.",
+      "image": "/images/categories/fruiting-vegetables.jpg"
+    },
+    {
+      "id": 4,
+      "name": "Legumes",
+      "description": "Protein-rich beans and pods, ideal for healthy meals.",
+      "image": "/images/categories/legumes.jpg"
+    },
+    {
+      "id": 5,
+      "name": "Alliums",
+      "description": "Flavorful additions like onions and garlic.",
+      "image": "/images/categories/alliums.jpg"
+    },
+    {
+      "id": 6,
+      "name": "Tubers",
+      "description": "Energy-rich vegetables like potatoes and yams.",
+      "image": "/images/categories/tubers.jpg"
+    }
+  ]
+}
