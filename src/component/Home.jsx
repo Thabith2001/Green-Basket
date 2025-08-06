@@ -18,8 +18,7 @@ const [products, setProducts] = React.useState([]);
 
 
     return (
-
-        <main className=" bg-cover bg-fixed bg-center md:bg-cover- md:bg-fixed md:bg-center pt-20  text-gray-800"  style={{ backgroundImage: "url('/resource/veg1.jpg')" }} id="home">
+<main className=" bg-cover bg-fixed bg-center pt-20  text-gray-800"  style={{ backgroundImage: "url('/resource/veg1.jpg')" }}>
             <section className="font-light bg-gray-50 w-full h-fit relative  p-5 ">
                 <div
                     className="bg-cover bg-center h-96 w-full flex flex-col justify-center items-center text-white text-center p-10 bg-gradient-to-r from-black/60 to-transparent "
