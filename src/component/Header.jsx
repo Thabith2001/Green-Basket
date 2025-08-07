@@ -96,7 +96,7 @@ const [categories, setCategories] = useState([]);
 
                 {/* Mobile Menu */}
                 {isOpen && (
-                    <div className="md:hidden px-4 pb-6 pt-4 bg-green-950 text-gray-200 space-y-3 absolute w-full left-0 top-16">
+                    <div className="md:hidden px-4 pb-6 pt-4 bg-green-950/80 text-gray-200 space-y-3 absolute w-full left-0 top-16">
                         <input
                             type="text"
                             placeholder="Search vegetables..."
